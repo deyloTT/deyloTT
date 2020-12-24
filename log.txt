@@ -1,3 +1,4 @@
 0448. 🐛 fix: correct typo in registration form
 0317. ✅ test: test user registration edge cases
 0300. ✨ feat: add export to CSV option
+0391. 🐛 fix: fix null pointer exception on login
