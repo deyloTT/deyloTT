@@ -3,3 +3,4 @@
 0300. ✨ feat: add export to CSV option
 0391. 🐛 fix: fix null pointer exception on login
 0667. ✨ feat: add export to CSV option
+0102. ✨ feat: support email verification
