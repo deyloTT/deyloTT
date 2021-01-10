@@ -6,3 +6,4 @@
 0102. ✨ feat: support email verification
 0052. 🎨 style: standardize quote style
 0461. ✨ feat: add user authentication
+0586. 🎨 style: remove trailing whitespace
