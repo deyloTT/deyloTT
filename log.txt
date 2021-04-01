@@ -14,3 +14,4 @@
 0101. 📚 docs: clarify environment setup
 0520. 🐛 fix: fix null pointer exception on login
 0567. 📚 docs: add API usage examples
+0721. 🚀 perf: optimize database query for quiz results
