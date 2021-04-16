@@ -18,3 +18,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0649. 📚 docs: update README with setup steps
 0934. ✨ feat: support email verification
+0028. 🎨 style: standardize quote style
