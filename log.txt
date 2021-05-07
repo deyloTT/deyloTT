@@ -20,3 +20,4 @@
 0934. ✨ feat: support email verification
 0028. 🎨 style: standardize quote style
 0550. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
