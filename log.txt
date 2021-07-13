@@ -27,3 +27,4 @@
 0237. 🎨 style: standardize quote style
 0147. ♻️ chore: bump dependencies
 0757. 🔧 refactor: remove redundant code blocks
+0204. 🎨 style: standardize quote style
