@@ -35,3 +35,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0508. ✅ test: add unit test for quiz service
 0307. ✨ feat: support email verification
+0610. 🚀 perf: lazy-load components
