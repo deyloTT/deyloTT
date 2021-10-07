@@ -37,3 +37,4 @@
 0307. ✨ feat: support email verification
 0610. 🚀 perf: lazy-load components
 0265. 🎨 style: reformat files with black
+0529. 📚 docs: write FAQ section
