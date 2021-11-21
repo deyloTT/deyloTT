@@ -39,3 +39,4 @@
 0265. 🎨 style: reformat files with black
 0529. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
+0616. 🚀 perf: lazy-load components
