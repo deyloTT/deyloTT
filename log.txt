@@ -59,3 +59,4 @@
 0664. ✅ test: add unit test for quiz service
 0693. 📚 docs: add API usage examples
 0911. ✅ test: increase coverage on auth module
+0817. 🔧 refactor: remove redundant code blocks
