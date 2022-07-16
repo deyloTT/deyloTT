@@ -62,3 +62,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0449. ✅ test: add unit test for quiz service
 0266. 🔧 refactor: remove redundant code blocks
+0315. ✅ test: add integration test for /submit endpoint
