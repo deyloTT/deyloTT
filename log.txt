@@ -75,3 +75,4 @@
 0225. 🚀 perf: reduce image load time
 0024. 📚 docs: write FAQ section
 0488. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
