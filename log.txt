@@ -81,3 +81,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0297. 🎨 style: remove trailing whitespace
 0197. 📚 docs: update README with setup steps
+0066. 🔧 refactor: clean up auth middleware
