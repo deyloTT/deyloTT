@@ -85,3 +85,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0869. ♻️ chore: bump dependencies
 0137. 🎨 style: rename variables for clarity
+0072. 🚀 perf: optimize database query for quiz results
