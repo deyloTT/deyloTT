@@ -91,3 +91,4 @@
 0947. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
 0687. 🎨 style: remove trailing whitespace
+0618. ✨ feat: support email verification
