@@ -92,3 +92,4 @@
 0372. ✨ feat: add user authentication
 0687. 🎨 style: remove trailing whitespace
 0618. ✨ feat: support email verification
+0232. 🎨 style: apply consistent indentation
