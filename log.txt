@@ -94,3 +94,4 @@
 0618. ✨ feat: support email verification
 0232. 🎨 style: apply consistent indentation
 0676. 🐛 fix: prevent crash on empty input
+0794. ♻️ chore: clean up unused files
