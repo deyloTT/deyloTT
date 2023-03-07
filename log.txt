@@ -96,3 +96,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0794. ♻️ chore: clean up unused files
 0400. 🐛 fix: fix null pointer exception on login
+0741. 🎨 style: apply consistent indentation
