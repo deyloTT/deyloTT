@@ -99,3 +99,4 @@
 0741. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
 0354. 📚 docs: add API usage examples
+0045. 🎨 style: apply consistent indentation
