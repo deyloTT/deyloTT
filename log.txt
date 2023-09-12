@@ -118,3 +118,4 @@
 0521. 🎨 style: standardize quote style
 0429. ✨ feat: add user authentication
 0176. 🔧 refactor: remove redundant code blocks
+0200. 🐛 fix: handle 500 error in quiz API
