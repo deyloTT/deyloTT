@@ -122,3 +122,4 @@
 0432. 🎨 style: apply consistent indentation
 0319. 🐛 fix: handle 500 error in quiz API
 0216. 🎨 style: rename variables for clarity
+0978. 🐛 fix: prevent crash on empty input
