@@ -137,3 +137,4 @@
 0635. 🎨 style: apply consistent indentation
 0548. 📚 docs: write FAQ section
 0406. ✨ feat: add export to CSV option
+0466. 🚀 perf: optimize database query for quiz results
