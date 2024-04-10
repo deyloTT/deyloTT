@@ -139,3 +139,4 @@
 0406. ✨ feat: add export to CSV option
 0466. 🚀 perf: optimize database query for quiz results
 0505. ♻️ chore: add GitHub actions badge
+0217. 🚀 perf: reduce image load time
