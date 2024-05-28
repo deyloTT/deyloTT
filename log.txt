@@ -143,3 +143,4 @@
 0291. 📚 docs: write FAQ section
 0059. ♻️ chore: bump dependencies
 0777. 📚 docs: document token refresh logic
+0040. 🔧 refactor: clean up auth middleware
