@@ -146,3 +146,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0138. 🎨 style: rename variables for clarity
 0958. 🐛 fix: prevent crash on empty input
+0345. 📚 docs: document token refresh logic
