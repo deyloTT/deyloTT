@@ -153,3 +153,4 @@
 0303. 🎨 style: rename variables for clarity
 0068. 🐛 fix: fix null pointer exception on login
 0575. ✅ test: add unit test for quiz service
+0585. 🚀 perf: lazy-load components
