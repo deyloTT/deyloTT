@@ -156,3 +156,4 @@
 0585. 🚀 perf: lazy-load components
 0535. 📚 docs: write FAQ section
 0486. ✨ feat: add export to CSV option
+0030. 🐛 fix: fix null pointer exception on login
