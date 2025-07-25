@@ -197,3 +197,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0208. 🔧 refactor: clean up auth middleware
 0627. 📚 docs: document token refresh logic
+0080. ✨ feat: support email verification
